@@ -1,0 +1,1 @@
+INSERT INTO Testuvannya.Teacher (`login`, `pass`, `name`, `sname`, `lname`) VALUES ('fafa', '1234', 'gleb', 'bokej', 'vyacheslavovich');
